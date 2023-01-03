@@ -1,0 +1,15 @@
+/Users/wsoule/Sites/csharp/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/wsoule/Sites/csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/wsoule/Sites/csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/wsoule/Sites/csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/wsoule/Sites/csharp/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/wsoule/Sites/csharp/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll

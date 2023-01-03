@@ -1,0 +1,15 @@
+/Users/wsoule/Sites/csharp/sample1/bin/Debug/net7.0/sample1
+/Users/wsoule/Sites/csharp/sample1/bin/Debug/net7.0/sample1.deps.json
+/Users/wsoule/Sites/csharp/sample1/bin/Debug/net7.0/sample1.runtimeconfig.json
+/Users/wsoule/Sites/csharp/sample1/bin/Debug/net7.0/sample1.dll
+/Users/wsoule/Sites/csharp/sample1/bin/Debug/net7.0/sample1.pdb
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.csproj.AssemblyReference.cache
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.AssemblyInfoInputs.cache
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.AssemblyInfo.cs
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.csproj.CoreCompileInputs.cache
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.dll
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/refint/sample1.dll
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.pdb
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/sample1.genruntimeconfig.cache
+/Users/wsoule/Sites/csharp/sample1/obj/Debug/net7.0/ref/sample1.dll
